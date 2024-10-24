@@ -32,13 +32,7 @@ Welcome to **GoTracker**, a web app designed for tracking running and cycling ac
 - **HTML5**: Markup language for structuring the app.
 - **CSS3**: For styling and layout.
 - **JavaScript**: Handles the core functionality and map integration.
-- **Leaflet.js**: For rendering the map and handling geolocation.
-
-## Screenshots
-_Add screenshots of the app to showcase the UI and map integration._
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- **Leaflet.js**: For rendering the map and handling geolocation
 
 ## Acknowledgments
 - Leaflet.js for their easy-to-use map integration library.
